@@ -8,4 +8,4 @@ build
 *.pyo
 .installed.cfg
 *~
-develop-egg
+develop-eggs
